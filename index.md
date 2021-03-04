@@ -1,6 +1,8 @@
 ## Interesting links for my SCA21 friends!
 [A VR video of a supercomputer!](https://www.youtube.com/watch?v=pAX8ZKqFRjM)
 
+[Some cool challenges](https://stage.calculquebec.ca/)
+
 [Compute Canada](https://www.computecanada.ca/home/)
 
 [Calcul Québec](https://www.calculquebec.ca/en/about-us/our-staff/)
